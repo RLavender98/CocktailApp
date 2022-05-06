@@ -1,0 +1,13 @@
+.Recipe {
+    padding-top: 32px;
+}
+
+.CocktailName {
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.Instructions {
+    text-align: left;
+    max-width: 600px;
+}

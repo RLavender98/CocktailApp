@@ -20,11 +20,12 @@
     "@progress/kendo-react-inputs": "^5.2.0",
     "@progress/kendo-react-intl": "^5.2.0",
     "@progress/kendo-react-treeview": "^5.2.0",
-    "@progress/kendo-theme-default": "^5.3.1",
+    "@progress/kendo-theme-default": "^5.4.1",
     "fetch": "^1.1.0",
     "node-fetch": "^3.2.4",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.3.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",
